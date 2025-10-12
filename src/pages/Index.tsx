@@ -48,7 +48,7 @@ const Index = () => {
 
         <div className="relative z-10 text-center px-4 max-w-5xl mx-auto animate-fade-in">
           <Badge className="mb-6 bg-primary text-primary-foreground px-6 py-2 text-lg font-semibold shadow-glow-red">
-            1944 — 2024
+            1944 — 2025
           </Badge>
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-black mb-6 text-foreground drop-shadow-2xl">
             80 лет Великой Победы
@@ -564,7 +564,7 @@ const Index = () => {
             Подвиг советского народа будет жить вечно
           </p>
           <div className="text-7xl md:text-8xl font-black bg-gradient-accent bg-clip-text text-transparent mb-6">
-            1944–2024
+            1944–2025
           </div>
           <p className="text-xl text-muted-foreground uppercase tracking-wider mb-4">
             Слава героям освободителям
@@ -579,7 +579,7 @@ const Index = () => {
       <footer className="py-8 px-4 bg-memorial-dark border-t border-border">
         <div className="max-w-6xl mx-auto text-center text-muted-foreground">
           <p className="mb-2">
-            © 2024 — К 80-летию освобождения Республики Беларусь
+            © 2025 — К 80-летию освобождения Республики Беларусь
           </p>
           <p>
             и Победы советского народа в Великой Отечественной войне
