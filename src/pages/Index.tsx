@@ -48,7 +48,7 @@ const Index = () => {
 
         <div className="relative z-10 text-center px-4 max-w-5xl mx-auto animate-fade-in">
           <Badge className="mb-6 bg-primary text-primary-foreground px-6 py-2 text-lg font-semibold shadow-glow-red">
-            1944 — 2021
+            1944 — 2025
           </Badge>
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-black mb-6 text-foreground drop-shadow-2xl">
             80 лет Великой Победы
